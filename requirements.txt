@@ -5,3 +5,5 @@ matplotlib
 argparse
 Pillow
 ipython
+gradio
+black
