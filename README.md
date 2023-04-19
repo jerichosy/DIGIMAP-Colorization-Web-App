@@ -1,5 +1,5 @@
 # DIGIMAP Colorization Web App
-Deployed on Hugging Face using Gradio: https://jerichosy-digimap-colorization-web-app.hf.space/
+**Deployed on Hugging Face using Gradio: https://jerichosy-digimap-colorization-web-app.hf.space/**
 
 ### Colorize Images
 
