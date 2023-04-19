@@ -11,6 +11,8 @@ Adapted to Gradio by DIGIMAP Group 12:
 - GREGORIO, DALE PONS LEE
 - SILLONA, JOHN EUGENE JUSTINIANO
 - SY, MATTHEW JERICHO GO
+<br>
+Image source (moon-captured-bw-lg.jpeg): https://www.digitalfieldguide.com/blog/11033
 
 ---
 <!--<h3><b>Colorful Image Colorization</b></h3>-->
