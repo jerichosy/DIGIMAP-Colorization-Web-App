@@ -1,3 +1,18 @@
+# DIGIMAP Colorization Web App
+Deployed on Hugging Face using Gradio: https://jerichosy-digimap-colorization-web-app.hf.space/
+
+### Colorize Images
+
+Colorize black and white images using the ECCV 2016 and SIGGRAPH 2017 colorization papers by Zhang et al.:
+- Colorful Image Colorization: https://arxiv.org/abs/1603.08511
+- Real-Time User-Guided Image Colorization with Learned Deep Priors: https://arxiv.org/abs/1705.02999
+
+Adapted to Gradio by DIGIMAP Group 12: 
+- GREGORIO, DALE PONS LEE
+- SILLONA, JOHN EUGENE JUSTINIANO
+- SY, MATTHEW JERICHO GO
+
+---
 <!--<h3><b>Colorful Image Colorization</b></h3>-->
 ## <b>Colorful Image Colorization</b> [[Project Page]](http://richzhang.github.io/colorization/) <br>
 [Richard Zhang](https://richzhang.github.io/), [Phillip Isola](http://web.mit.edu/phillipi/), [Alexei A. Efros](http://www.eecs.berkeley.edu/~efros/). In [ECCV, 2016](http://arxiv.org/pdf/1603.08511.pdf).
